@@ -1,0 +1,24 @@
+Customer_Age,Age_Group,Customer_Gender,Country,State,Product_Category,Sub_Category,Product,Order_Quantity,Unit_Cost,Unit_Price,Cost,Predicted_Revenue
+33,Young Adults (25-34),F,Uganda,Western,Accessories,Tires and Tubes,Patch Kit/8 Patches,100,1,2,30,61.4
+41,Adults (35-64),M,Uganda,Eastern,Accessories,Bottles and Cages,Road Bottle Cage,28,3,9,84,238.56
+33,Young Adults (25-34),F,Uganda,Northern,Accessories,Tires and Tubes,Patch Kit/8 Patches,24,1,2,24,51.62
+37,Adults (35-64),M,Uganda,South_West,Accessories,Tires and Tubes,LL Road Tire,24,6,3,192,294.9
+30,Young Adults (25-34),F,Uganda,Southern,Accessories,Tires and Tubes,Road Tire Tube,22,1,4,22,50.91
+42,Adults (35-64),F,Uganda,North_East,Accessories,Tires and Tubes,Patch Kit/8 Patches,22,1,2,89,228.14
+42,Adults (35-64),F,Uganda,Central,Accessories,Tires and Tubes,Patch Kit/8 Patches,21,1,2,21,45.9
+19,Youth (<25),F,Uganda,Eastern,Accessories,Bottles and Cages,Water Bottle - 30 oz.,19,2,5,38,95.0
+37,Adults (35-64),M,Uganda,Western,Accessories,Tires and Tubes,LL Road Tire,12,8,21,96,254.52
+19,Youth (<25),F,Uganda,Western,Accessories,Bottles and Cages,Water Bottle - 30 oz.,11,2,5,20,50.0
+19,Youth (<25),F,Uganda,Eastern,Accessories,Helmets,"Sport-100 Helmet, Red",9,13,56,117,316.35
+30,Young Adults (25-34),M,Uganda,Northern,Accessories,Tires and Tubes,ML Road Tire,8,9,25,72,198.0
+19,Youth (<25),F,Uganda,South_West,Clothing,Jerseys,"Long-Sleeve Logo Jersey, M",5,38,50,190,250.0
+41,Adults (35-64),M,Uganda,Southern,Accessories,Bottles and Cages,Road Bottle Cage,6,3,9,15,40.12
+30,Young Adults (25-34),F,Uganda,North_East,Accessories,Tires and Tubes,Road Tire Tube,3,1,4,3,11.94
+28,Young Adults (25-34),F,Uganda,Central,Accessories,Bottles and Cages,Water Bottle - 30 oz.,2,2,5,4,10.0
+29,Young Adults (25-34),F,Uganda,Eastern,Clothing,Jerseys,"Short-Sleeve Classic Jersey, L",2,42,54,84,105.84
+42,Adults (35-64),F,Uganda,Western,Accessories,Helmets,"Sport-100 Helmet, Blue",2,13,35,26,70.0
+32,Young Adults (25-34),F,Uganda,Island,Accessories,Bottles and Cages,Water Bottle - 30 oz.,30,2,5,60,150.5
+45,Adults (35-64),F,Uganda,Island,Accessories,Bottles and Cages,Water Bottle - 30 oz.,30,2,5,60,150.5
+35,Adults (35-64),M,Uganda,Western,Clothing,Caps,AWC Logo Cap,29,7,9,203,261.0
+45,Adults (35-64),F,Uganda,Northern,Accessories,Bottles and Cages,Water Bottle - 30 oz.,29,2,4,58,145.7
+25,Young Adults (25-34),F,Uganda,Central,Accessories,Bottles and Cages,Mountain Bottle Cage,23,4,10,92,230.67
